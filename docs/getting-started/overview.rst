@@ -56,7 +56,7 @@ use case.
 `Windows Communication Foundation (WCF) <https://msdn.microsoft.com/en-us/library/ms731082(v=vs.110).aspx>`_ 
 is a set of libraries that comprise the middleware services stack on .NET Framework. 
 It allows you to create services that can communicate through various supported 
-protocols using various data formats, and that can be hoster in any process 
+protocols using various data formats, and that can be hosted in any process 
 you choose. This leads to one of the major features of WCF: your services are 
 not tied to any particular hosting strategy or approach.
 
@@ -68,7 +68,7 @@ reusing web controls for everything from loging in to data binding.
 `ASP.NET MVC <http://www.asp.net/mvc>`_ allows for a different approach, one that gives you greater 
 control over the entire pipeline, from HTTP layer to the user interface. 
 `ASP.NET WebAPI <http://www.asp.net/web-api>`_ is a convention-based framework for creating REST 
-services. It allows you to stand up a REST endpoint extremely fast. Finally, 
+services. It allows you to set-up a REST endpoint extremely fast. Finally, 
 `SignalR <http://www.asp.net/signalr>`_ allows you to provide push-based communication to your web 
 applications using `WebSocket <https://en.wikipedia.org/wiki/WebSocket>`_ protocol. 
 
@@ -94,10 +94,11 @@ applications.
 Supported operating systems
 ---------------------------
 
-.NET Framework is supported only on Windows operating system. .NET Native is, 
-at this time, supported only on Windows. 
-
 .NET Core is supported on Windows, Linux and OS X. 
+
+.NET Framework is supported on Windows operating system. .NET Native is, 
+at this time, supported on Windows. 
+
 
 
 
